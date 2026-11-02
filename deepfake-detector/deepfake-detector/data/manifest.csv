@@ -1,0 +1,801 @@
+path,label,source,split
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\63756.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0034070.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (54880).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\26217.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (14395).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0016750.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\3G8857YH8J.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0050776.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\UBJF7CDEZ8.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\test\fake\S5ON8UCXP1.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\FLUX_PRO\FLUX1_pro_image_0002061.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\Y6M7MB1V7L.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\01447.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\test\fake\2FT7TX98VQ.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\24315.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (62179).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0027759.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\11026.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (41680).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\6YM5A2SQ0H.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\valid\fake\00W5NPIX4S.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (57134).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (55023).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\59837.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0044089.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\34847.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (61889).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (54032).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\R3POCXE8SE.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\55308.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\62057.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (38908).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\N1FZOZRAWH.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0039742.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\valid\real\50499.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (4638).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (14466).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\FLUX_DEV\FLUX1_dev_image_0002479.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (61394).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\29510.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (18276).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (36000).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\FXLNR3IL62.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (4612).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\50205.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0000366.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (20199).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\27493.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\13167.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\SZTJFJZ80L.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\04781.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (37022).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\test\real\40604.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\65473.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\UXKXAAH55W.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (1928).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\57003.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (2433).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0048861.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\valid\real\54201.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\14108.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\58481.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (21400).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\valid\real\02139.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\30002.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (8235).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0027471.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\46971.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\15572.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\test\real\29056.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\13648.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\24384.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\20601.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (19407).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\04511.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\04926.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\AI (502).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\39479.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSD (516).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (26402).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\6GVBX2AGLG.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (21496).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\61592.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (53615).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (3953).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (9635).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (4629).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\TZMOF115F3.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (21070).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\68218.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\5CAZTIX7XY.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\25964.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSD (5894).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (5578).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0020497.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (9531).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\14633.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSD (8866).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0018186.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (3927).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (29414).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\valid\fake\A85QRNENY8.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (50602).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (38762).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\valid\fake\I41OVQ7WXW.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\12093.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (24738).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\29970.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (913).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (712).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0013979.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\LOKD2Z4UKQ.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\32969.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (8463).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0013944.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\06654.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\37978.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\FLUX_PRO\FLUX1_pro_image_0002867.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\GLE5RY7K5E.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (35106).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\KA3TCE7YVD.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\38791.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (59368).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (30878).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0051992.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (29479).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\31401.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\63850.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\58997.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0029937.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\48N3736RNA.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\BILR70ZSWR.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (20653).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0046309.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (9869).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\valid\fake\YT8PFFZRFA.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (54557).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\24114.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\11172.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (18853).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (28487).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\38949.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\valid\fake\Y5FAV8Y4R3.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0040434.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\52735.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (18789).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\JD5UDMMA8F.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\valid\real\50238.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\12951.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (38079).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\45338.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\test\fake\9FDGXL9QL6.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\valid\fake\209UGFGT30.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\40942.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\YGC0ZG6ZLB.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (847).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0005486.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (33308).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (25821).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (37131).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\06647.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (33214).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (26879).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\valid\fake\UQZZXJQYA6.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\ZY8TOUD6VP.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (36358).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (13767).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0005997.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\16106.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (19374).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (37988).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\FLUX_DEV\FLUX1_dev_image_0000476.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSD (3275).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (22068).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\57837.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0041145.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0047072.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\valid\real\10741.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0007261.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (69594).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\valid\fake\Y2BUYD3XOS.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (47133).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (5476).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0007873.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\27258.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\20984.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\41739.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\29645.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\test\fake\2043PSSVLA.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (12362).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\CF2EQ8OGSO.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (28888).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\Y24FMMJIKF.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0044166.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (27274).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0015924.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\31228.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (29727).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (17870).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0002087.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (23121).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (10375).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\QNBEIF8Z8D.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (26156).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\valid\fake\IG2JJCKSYK.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (9742).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (13714).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\66453.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\test\real\43269.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\L9OJ2NMKYO.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (26101).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\33881.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (19015).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\53992.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\61206.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\16342.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\23293.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0032267.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\55298.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\57170.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0021873.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\05474.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\39728.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\test\fake\O9S74PRTEQ.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (50806).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\SOXAYXBYF5.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\WJTLRWNODN.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0037976.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSD (2218).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSD (8902).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\26558.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\7H561GJ68T.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\24696.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\ZX305QC9MR.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (34679).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (7724).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\test\real\21900.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (59450).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\VE2A1H1EFW.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\valid\real\40276.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (16418).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (67299).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (31790).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (58225).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0003814.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (52935).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0007431.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\29723.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\valid\real\50519.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (12831).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\50848.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0000743.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0001922.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\test\real\07671.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (36399).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\valid\real\19322.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSD (254).png,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0027650.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\69234.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\36400.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (20349).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\61706.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\APH0W3SMHK.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (13889).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\00091.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\32750.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\60366.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\94V8QL6S30.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\VLVD1249K9.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\54448.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (6483).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (3971).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\08523.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\46723.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\21966.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (12058).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (24321).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\10539.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\22291.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\FLUX_DEV\FLUX1_dev_image_0003797.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\16717.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (62400).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\49939.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (20210).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\32348.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\ZP1BG6V0WG.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (16949).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0018964.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (10346).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\54253.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (20408).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\FLUX_PRO\FLUX1_pro_image_0003087.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (37282).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\05827.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\25271.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (27456).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0048870.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (58417).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\43756.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\valid\real\42744.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (22296).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (19416).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\OFEYWGGZ0R.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\06341.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (36420).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\18469.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\ZJNAYUNTL3.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\ED0NQQL3Z2.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0047949.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0033996.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\V1KUQHAT7P.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (26111).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\J0URX6UBHC.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (20484).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\test\real\62257.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (19153).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSD (3916).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\test\real\05945.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\5FEH3VU5D1.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (60866).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (21892).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\13873.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0033073.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (11897).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\04677.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\52961.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\35510.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (31498).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0011537.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0019530.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\LAGOCLDIQA.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (14807).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\38775.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (40243).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\03159.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (68728).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (18170).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\53866.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (23509).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\17801.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\FLUX_DEV\FLUX1_dev_image_0001184.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (57465).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\35109.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\7IWM35QZ9Y.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\18191.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0008977.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\KP83LKBTBK.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0041156.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (39648).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0025183.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\58913.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (29437).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\21053.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (30907).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0004906.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\H1ILSVBQ56.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (14790).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\valid\fake\CJ1E3VLIWS.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0020603.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\valid\fake\BQRIO8LU1Z.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSD (540).png,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\51122.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\13698.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\WASAKAE5GF.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\66877.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (3980).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0004057.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (23807).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (28709).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\37302.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0033892.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\HCCC1MCWN1.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSD (2460).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSD (4274).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\valid\fake\J63MXPAL6D.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\valid\fake\QWCHK5ZJNS.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0021171.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\valid\fake\URQ19WRLOJ.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (28360).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\BKY836N55I.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\U2LEOREJRH.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\50419.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\FYZ5KONR3A.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0021649.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0000994.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSD (4182).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\44528.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\21738.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\FA6QK9HDCB.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (7851).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\CSUEYLYCR1.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (2872).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\MQ9A0HJ9ED.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\6NA0GGYW1T.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\MW3Q1ORA9B.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\TIFMLVY2KN.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\59984.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\03873.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\test\fake\V8CEG74FXH.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\37132.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (42409).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSD (393).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0002904.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (33320).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\07903.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (28657).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\70Q3M020KC.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (57148).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\valid\fake\TMBIUQA9GZ.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0003342.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (57291).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (27923).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (39853).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (19597).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\T7LRHFTVV3.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (55724).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (28574).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\valid\fake\4YHEB0HNZY.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (58837).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\09614.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (8595).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\66595.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\04149.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0033399.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSD (7837).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (13406).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (3733).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (11324).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\53050.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\49438.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\52294.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSD (8228).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (2046).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\FLUX_DEV\FLUX1_dev_image_0000627.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0032813.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (24137).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (38939).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\57029.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\12819.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (39929).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0015906.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0040412.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (9802).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0043527.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\O9827GR8GS.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\54626.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (9003).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\33886.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (17117).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (35420).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (25247).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (3345).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (61110).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\27764.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\test\fake\LIAFKTSUWW.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0000776.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSD (8339).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\14793.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\SMYN8DV997.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0039971.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (31807).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (18865).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\67815.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\11107.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0041541.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\B0SHUS72BG.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (51828).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0011261.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\V31E82FE38.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0020046.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (574).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\43723.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\D54NW66YU6.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (8765).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\52587.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (36817).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0037018.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\43312.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (51205).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (53373).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\NB5VFH2U5A.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0006265.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\ZE52SRY5YN.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (10243).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (66386).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (24219).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (33553).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (2083).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\FLUX_DEV\FLUX1_dev_image_0000273.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (37913).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (40328).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\39512.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (734).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0024003.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\04789.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\32914.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0020037.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (22908).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\45724.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\68130.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0008978.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\33853.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\16415.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (3465).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0048505.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\valid\fake\2QZNJ1VDK1.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\test\real\49874.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\HWLDX6QP6A.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\50453.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (21725).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (59579).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\34501.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\valid\real\54960.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (12845).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\01583.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (16099).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\03826.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\ZXD7JOV4EJ.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (61598).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (7106).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (131).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\07332.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (21880).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\FY61CBWLTT.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\P7H95PH1VU.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\15272.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\ILJT4NCQC8.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\valid\fake\KWU84OC22R.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\23270.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (21825).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (34448).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (69595).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0027009.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (34839).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\64618.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\03653.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\40171.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (22669).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (19704).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\X9Y922UCOO.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (13830).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0049450.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\L8IOQX1ILS.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (65006).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\69075.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (2211).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\16665.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0029012.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (15884).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (67372).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (14113).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\41460.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0050948.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (10389).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\J2LNAG0V3H.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\6YWTID3D7U.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (14313).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\7MAMB7VYET.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\CZ2MXM9N2L.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\valid\real\39488.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\654V85O8OL.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (38246).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\13261.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\I06VBD1YSX.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\40812.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0021175.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\65321.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\45124.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\VXK9W0DCYP.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\valid\real\10084.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (34253).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (22315).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0032622.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (21570).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (35532).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (27386).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\21492.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\test\fake\D86S8AENXP.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0040492.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\08298.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (12003).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\HT6Q5Y05IZ.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (16871).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0008573.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0028385.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\22463.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\47531.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\60882.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (4683).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\39WA0Y67XX.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\HSCJOGH5PN.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (25690).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\TN33R2OZD9.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\14159.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (62105).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\F9OJEAT4XL.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (55897).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (25646).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\valid\real\03740.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\test\real\09147.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\40390.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (19175).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\KNRPNY2ZSM.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\FLUX_DEV\FLUX1_dev_image_0006753.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\34389.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\08634.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSD (2097).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\04137.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\12014.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\valid\real\08714.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (39055).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (18979).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\57854.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (35311).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (16073).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\0QC7RGLW1W.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (27061).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (32017).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\T9XBKN3BRN.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\04479.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\test\fake\YMV1MUW742.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (18261).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\valid\fake\XKW1TH5NO2.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (57240).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\FLUX_DEV\FLUX1_dev_image_0005307.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\57660.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (27910).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (33701).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\39602.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\34614.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\7D8C1HKHVU.jpg,1,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (12311).jpg,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\46357.jpg,0,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (69006).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSD (7352).jpg,1,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\FLUX_DEV\FLUX1_dev_image_0001990.jpg,1,real_vs_fake_130k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (38151).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\65708.jpg,0,faces_140k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (2577).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (9957).png,0,realvsfake_81k,train
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\03920.jpg,0,real_vs_fake_130k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\30242.jpg,0,real_vs_fake_130k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\test\real\22802.jpg,0,faces_140k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0014767.jpg,1,real_vs_fake_130k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\25354.jpg,0,real_vs_fake_130k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\58963.jpg,0,real_vs_fake_130k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\14761.jpg,0,faces_140k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (1521).jpg,0,realvsfake_81k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\20632.jpg,0,real_vs_fake_130k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\test\fake\9K36VOZHS8.jpg,1,faces_140k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (50509).jpg,1,realvsfake_81k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (38955).png,0,realvsfake_81k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSD (1377).jpg,1,realvsfake_81k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (69564).jpg,1,realvsfake_81k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (18216).jpg,1,realvsfake_81k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\49676.jpg,0,real_vs_fake_130k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\54244.jpg,0,real_vs_fake_130k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\11336.jpg,0,real_vs_fake_130k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\P4H9WF1BIY.jpg,1,faces_140k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\38754.jpg,0,faces_140k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\37475.jpg,0,real_vs_fake_130k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\62118.jpg,0,faces_140k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\69964.jpg,0,real_vs_fake_130k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0052498.jpg,1,real_vs_fake_130k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (25225).jpg,1,realvsfake_81k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0044141.jpg,1,real_vs_fake_130k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0035199.jpg,1,real_vs_fake_130k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\32351.jpg,0,faces_140k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\valid\real\36135.jpg,0,faces_140k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\24524.jpg,0,real_vs_fake_130k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (44326).jpg,1,realvsfake_81k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\19778.jpg,0,faces_140k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (32788).jpg,1,realvsfake_81k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\01125.jpg,0,real_vs_fake_130k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (13786).png,0,realvsfake_81k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0017693.jpg,1,real_vs_fake_130k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\23575.jpg,0,real_vs_fake_130k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\valid\fake\2JBCJ98UVE.jpg,1,faces_140k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\02973.jpg,0,real_vs_fake_130k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\NMXI9X3F90.jpg,1,faces_140k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (66469).jpg,1,realvsfake_81k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\valid\real\60765.jpg,0,faces_140k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (63450).jpg,1,realvsfake_81k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\1LGV8YDIKP.jpg,1,faces_140k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\test\fake\34CWK6YCP4.jpg,1,faces_140k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\57958.jpg,0,faces_140k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0006316.jpg,1,real_vs_fake_130k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (64504).jpg,1,realvsfake_81k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\37487.jpg,0,real_vs_fake_130k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (9079).jpg,0,realvsfake_81k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\22307.jpg,0,faces_140k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0004417.jpg,1,real_vs_fake_130k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (25062).jpg,1,realvsfake_81k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (17752).jpg,1,realvsfake_81k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0037570.jpg,1,real_vs_fake_130k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\valid\fake\5MYQ92QN7J.jpg,1,faces_140k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0016314.jpg,1,real_vs_fake_130k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\12551.jpg,0,real_vs_fake_130k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0028526.jpg,1,real_vs_fake_130k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0038459.jpg,1,real_vs_fake_130k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\67518.jpg,0,faces_140k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\67535.jpg,0,real_vs_fake_130k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0015000.jpg,1,real_vs_fake_130k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0019938.jpg,1,real_vs_fake_130k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\BDP664KECG.jpg,1,faces_140k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\00355.jpg,0,real_vs_fake_130k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (3558).jpg,1,realvsfake_81k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (38550).jpg,0,realvsfake_81k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0017572.jpg,1,real_vs_fake_130k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\09160.jpg,0,real_vs_fake_130k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\VR3AJOCSLV.jpg,1,faces_140k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (28801).png,0,realvsfake_81k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\69907.jpg,0,real_vs_fake_130k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0023079.jpg,1,real_vs_fake_130k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (66110).jpg,1,realvsfake_81k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (32538).png,0,realvsfake_81k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0024982.jpg,1,real_vs_fake_130k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (14437).jpg,1,realvsfake_81k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\22650.jpg,0,real_vs_fake_130k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\22784.jpg,0,real_vs_fake_130k,val
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\41189.jpg,0,faces_140k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\M2QSC1WUR2.jpg,1,faces_140k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (16322).jpg,1,realvsfake_81k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\RKOJS6BJLO.jpg,1,faces_140k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (11947).jpg,1,realvsfake_81k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\15007.jpg,0,real_vs_fake_130k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0029673.jpg,1,real_vs_fake_130k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\test\real\46606.jpg,0,faces_140k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\30913.jpg,0,faces_140k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (15990).png,0,realvsfake_81k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\test\real\44843.jpg,0,faces_140k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\31189.jpg,0,faces_140k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (39469).jpg,1,realvsfake_81k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (57140).jpg,1,realvsfake_81k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0005246.jpg,1,real_vs_fake_130k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\L49FOLBR76.jpg,1,faces_140k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (3393).jpg,1,realvsfake_81k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\FLUX_DEV\FLUX1_dev_image_0005342.jpg,1,real_vs_fake_130k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (47951).jpg,1,realvsfake_81k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (30848).jpg,1,realvsfake_81k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\32938.jpg,0,real_vs_fake_130k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\00762.jpg,0,real_vs_fake_130k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\44937.jpg,0,real_vs_fake_130k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\valid\real\21482.jpg,0,faces_140k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (17641).png,0,realvsfake_81k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\TWEK130WLZ.jpg,1,faces_140k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\51652.jpg,0,real_vs_fake_130k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\Q47WB48WTM.jpg,1,faces_140k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSD (14).jpg,1,realvsfake_81k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0040885.jpg,1,real_vs_fake_130k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\test\fake\DEYKGQ8OG3.jpg,1,faces_140k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (284).jpg,0,realvsfake_81k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\85JOQBT7R7.jpg,1,faces_140k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\valid\fake\CTND114DQS.jpg,1,faces_140k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (23499).jpg,0,realvsfake_81k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (16875).jpg,0,realvsfake_81k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (34073).jpg,1,realvsfake_81k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0030949.jpg,1,real_vs_fake_130k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (22476).jpg,0,realvsfake_81k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0052570.jpg,1,real_vs_fake_130k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\KG3WSKLOGN.jpg,1,faces_140k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (30150).jpg,1,realvsfake_81k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\40789.jpg,0,faces_140k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\26035.jpg,0,real_vs_fake_130k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (21554).png,0,realvsfake_81k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (33251).jpg,1,realvsfake_81k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (8200).jpg,1,realvsfake_81k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (9456).jpg,1,realvsfake_81k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\50608.jpg,0,faces_140k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (28071).jpg,0,realvsfake_81k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\59175.jpg,0,real_vs_fake_130k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (8905).jpg,1,realvsfake_81k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0015143.jpg,1,real_vs_fake_130k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\28295.jpg,0,real_vs_fake_130k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\33460.jpg,0,real_vs_fake_130k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0050563.jpg,1,real_vs_fake_130k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\42955.jpg,0,real_vs_fake_130k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\SEM2F4UX6K.jpg,1,faces_140k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (58654).jpg,1,realvsfake_81k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\13005.jpg,0,real_vs_fake_130k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\33966.jpg,0,faces_140k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RCA (1190).jpg,0,realvsfake_81k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\04051.jpg,0,real_vs_fake_130k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\P6DUO4IBX5.jpg,1,faces_140k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (30273).jpg,1,realvsfake_81k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (25389).jpg,1,realvsfake_81k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\36422.jpg,0,real_vs_fake_130k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\fake\T6O4ALGBPC.jpg,1,faces_140k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (35139).png,0,realvsfake_81k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\09298.jpg,0,faces_140k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (12753).jpg,1,realvsfake_81k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\test\real\35284.jpg,0,faces_140k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\test\real\08070.jpg,0,faces_140k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\fake\SDXL\SDXL_image_0037752.jpg,1,real_vs_fake_130k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Fake\FSG (37080).jpg,1,realvsfake_81k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\wish096\realvsfake-81k-by-wish\versions\3\RealVsFake\RealVsFake\Real\RFF (13356).png,0,realvsfake_81k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\69284.jpg,0,real_vs_fake_130k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\xhlulu\140k-real-and-fake-faces\versions\2\real_vs_fake\real-vs-fake\train\real\65784.jpg,0,faces_140k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\09840.jpg,0,real_vs_fake_130k,test
+C:\Users\ARYAN\.cache\kagglehub\datasets\shreyanshpatel1\130k-real-vs-fake-face\versions\1\images\real\64410.jpg,0,real_vs_fake_130k,test
